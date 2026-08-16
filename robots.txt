@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-kg1xcl.radarsatu88.shop/sitemap.xml
